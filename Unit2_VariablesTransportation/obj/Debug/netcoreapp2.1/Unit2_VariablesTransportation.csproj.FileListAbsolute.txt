@@ -1,0 +1,10 @@
+E:\Coding\Complete\CSharp\Unit2_VariablesTransportation\bin\Debug\netcoreapp2.1\Unit2_VariablesTransportation.deps.json
+E:\Coding\Complete\CSharp\Unit2_VariablesTransportation\bin\Debug\netcoreapp2.1\Unit2_VariablesTransportation.runtimeconfig.json
+E:\Coding\Complete\CSharp\Unit2_VariablesTransportation\bin\Debug\netcoreapp2.1\Unit2_VariablesTransportation.runtimeconfig.dev.json
+E:\Coding\Complete\CSharp\Unit2_VariablesTransportation\bin\Debug\netcoreapp2.1\Unit2_VariablesTransportation.dll
+E:\Coding\Complete\CSharp\Unit2_VariablesTransportation\bin\Debug\netcoreapp2.1\Unit2_VariablesTransportation.pdb
+E:\Coding\Complete\CSharp\Unit2_VariablesTransportation\obj\Debug\netcoreapp2.1\Unit2_VariablesTransportation.csproj.CoreCompileInputs.cache
+E:\Coding\Complete\CSharp\Unit2_VariablesTransportation\obj\Debug\netcoreapp2.1\Unit2_VariablesTransportation.AssemblyInfoInputs.cache
+E:\Coding\Complete\CSharp\Unit2_VariablesTransportation\obj\Debug\netcoreapp2.1\Unit2_VariablesTransportation.AssemblyInfo.cs
+E:\Coding\Complete\CSharp\Unit2_VariablesTransportation\obj\Debug\netcoreapp2.1\Unit2_VariablesTransportation.dll
+E:\Coding\Complete\CSharp\Unit2_VariablesTransportation\obj\Debug\netcoreapp2.1\Unit2_VariablesTransportation.pdb

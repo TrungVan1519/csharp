@@ -1,0 +1,10 @@
+E:\Coding\Complete\CSharp\Unit1_Class\bin\Debug\netcoreapp2.1\Unit1_Class.deps.json
+E:\Coding\Complete\CSharp\Unit1_Class\bin\Debug\netcoreapp2.1\Unit1_Class.runtimeconfig.json
+E:\Coding\Complete\CSharp\Unit1_Class\bin\Debug\netcoreapp2.1\Unit1_Class.runtimeconfig.dev.json
+E:\Coding\Complete\CSharp\Unit1_Class\bin\Debug\netcoreapp2.1\Unit1_Class.dll
+E:\Coding\Complete\CSharp\Unit1_Class\bin\Debug\netcoreapp2.1\Unit1_Class.pdb
+E:\Coding\Complete\CSharp\Unit1_Class\obj\Debug\netcoreapp2.1\Unit1_Class.csproj.CoreCompileInputs.cache
+E:\Coding\Complete\CSharp\Unit1_Class\obj\Debug\netcoreapp2.1\Unit1_Class.AssemblyInfoInputs.cache
+E:\Coding\Complete\CSharp\Unit1_Class\obj\Debug\netcoreapp2.1\Unit1_Class.AssemblyInfo.cs
+E:\Coding\Complete\CSharp\Unit1_Class\obj\Debug\netcoreapp2.1\Unit1_Class.dll
+E:\Coding\Complete\CSharp\Unit1_Class\obj\Debug\netcoreapp2.1\Unit1_Class.pdb

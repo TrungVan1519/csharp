@@ -1,0 +1,10 @@
+E:\Coding\Complete\CSharp\Unit3_OneDimensionalArray\bin\Debug\netcoreapp2.1\Unit3_OneDimensionalArray.deps.json
+E:\Coding\Complete\CSharp\Unit3_OneDimensionalArray\bin\Debug\netcoreapp2.1\Unit3_OneDimensionalArray.runtimeconfig.json
+E:\Coding\Complete\CSharp\Unit3_OneDimensionalArray\bin\Debug\netcoreapp2.1\Unit3_OneDimensionalArray.runtimeconfig.dev.json
+E:\Coding\Complete\CSharp\Unit3_OneDimensionalArray\bin\Debug\netcoreapp2.1\Unit3_OneDimensionalArray.dll
+E:\Coding\Complete\CSharp\Unit3_OneDimensionalArray\bin\Debug\netcoreapp2.1\Unit3_OneDimensionalArray.pdb
+E:\Coding\Complete\CSharp\Unit3_OneDimensionalArray\obj\Debug\netcoreapp2.1\Unit3_OneDimensionalArray.csproj.CoreCompileInputs.cache
+E:\Coding\Complete\CSharp\Unit3_OneDimensionalArray\obj\Debug\netcoreapp2.1\Unit3_OneDimensionalArray.AssemblyInfoInputs.cache
+E:\Coding\Complete\CSharp\Unit3_OneDimensionalArray\obj\Debug\netcoreapp2.1\Unit3_OneDimensionalArray.AssemblyInfo.cs
+E:\Coding\Complete\CSharp\Unit3_OneDimensionalArray\obj\Debug\netcoreapp2.1\Unit3_OneDimensionalArray.dll
+E:\Coding\Complete\CSharp\Unit3_OneDimensionalArray\obj\Debug\netcoreapp2.1\Unit3_OneDimensionalArray.pdb

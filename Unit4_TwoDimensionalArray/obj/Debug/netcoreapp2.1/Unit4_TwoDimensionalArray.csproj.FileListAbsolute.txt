@@ -1,0 +1,10 @@
+E:\Coding\Complete\CSharp\Unit4_TwoDimensionalArray\bin\Debug\netcoreapp2.1\Unit4_TwoDimensionalArray.deps.json
+E:\Coding\Complete\CSharp\Unit4_TwoDimensionalArray\bin\Debug\netcoreapp2.1\Unit4_TwoDimensionalArray.runtimeconfig.json
+E:\Coding\Complete\CSharp\Unit4_TwoDimensionalArray\bin\Debug\netcoreapp2.1\Unit4_TwoDimensionalArray.runtimeconfig.dev.json
+E:\Coding\Complete\CSharp\Unit4_TwoDimensionalArray\bin\Debug\netcoreapp2.1\Unit4_TwoDimensionalArray.dll
+E:\Coding\Complete\CSharp\Unit4_TwoDimensionalArray\bin\Debug\netcoreapp2.1\Unit4_TwoDimensionalArray.pdb
+E:\Coding\Complete\CSharp\Unit4_TwoDimensionalArray\obj\Debug\netcoreapp2.1\Unit4_TwoDimensionalArray.csproj.CoreCompileInputs.cache
+E:\Coding\Complete\CSharp\Unit4_TwoDimensionalArray\obj\Debug\netcoreapp2.1\Unit4_TwoDimensionalArray.AssemblyInfoInputs.cache
+E:\Coding\Complete\CSharp\Unit4_TwoDimensionalArray\obj\Debug\netcoreapp2.1\Unit4_TwoDimensionalArray.AssemblyInfo.cs
+E:\Coding\Complete\CSharp\Unit4_TwoDimensionalArray\obj\Debug\netcoreapp2.1\Unit4_TwoDimensionalArray.dll
+E:\Coding\Complete\CSharp\Unit4_TwoDimensionalArray\obj\Debug\netcoreapp2.1\Unit4_TwoDimensionalArray.pdb

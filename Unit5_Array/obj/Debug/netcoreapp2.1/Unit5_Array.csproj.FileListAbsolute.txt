@@ -1,0 +1,11 @@
+E:\Coding\Complete\CSharp\Unit5_Array\bin\Debug\netcoreapp2.1\Unit5_Array.deps.json
+E:\Coding\Complete\CSharp\Unit5_Array\bin\Debug\netcoreapp2.1\Unit5_Array.runtimeconfig.json
+E:\Coding\Complete\CSharp\Unit5_Array\bin\Debug\netcoreapp2.1\Unit5_Array.runtimeconfig.dev.json
+E:\Coding\Complete\CSharp\Unit5_Array\bin\Debug\netcoreapp2.1\Unit5_Array.dll
+E:\Coding\Complete\CSharp\Unit5_Array\bin\Debug\netcoreapp2.1\Unit5_Array.pdb
+E:\Coding\Complete\CSharp\Unit5_Array\obj\Debug\netcoreapp2.1\Unit5_Array.csprojAssemblyReference.cache
+E:\Coding\Complete\CSharp\Unit5_Array\obj\Debug\netcoreapp2.1\Unit5_Array.csproj.CoreCompileInputs.cache
+E:\Coding\Complete\CSharp\Unit5_Array\obj\Debug\netcoreapp2.1\Unit5_Array.AssemblyInfoInputs.cache
+E:\Coding\Complete\CSharp\Unit5_Array\obj\Debug\netcoreapp2.1\Unit5_Array.AssemblyInfo.cs
+E:\Coding\Complete\CSharp\Unit5_Array\obj\Debug\netcoreapp2.1\Unit5_Array.dll
+E:\Coding\Complete\CSharp\Unit5_Array\obj\Debug\netcoreapp2.1\Unit5_Array.pdb

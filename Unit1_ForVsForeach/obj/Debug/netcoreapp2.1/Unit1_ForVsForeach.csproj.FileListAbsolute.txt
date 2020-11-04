@@ -1,0 +1,10 @@
+E:\Coding\Complete\CSharp\Unit1_ForVsForeach\obj\Debug\netcoreapp2.1\Unit1_ForVsForeach.csproj.CoreCompileInputs.cache
+E:\Coding\Complete\CSharp\Unit1_ForVsForeach\obj\Debug\netcoreapp2.1\Unit1_ForVsForeach.AssemblyInfoInputs.cache
+E:\Coding\Complete\CSharp\Unit1_ForVsForeach\obj\Debug\netcoreapp2.1\Unit1_ForVsForeach.AssemblyInfo.cs
+E:\Coding\Complete\CSharp\Unit1_ForVsForeach\bin\Debug\netcoreapp2.1\Unit1_ForVsForeach.deps.json
+E:\Coding\Complete\CSharp\Unit1_ForVsForeach\bin\Debug\netcoreapp2.1\Unit1_ForVsForeach.runtimeconfig.json
+E:\Coding\Complete\CSharp\Unit1_ForVsForeach\bin\Debug\netcoreapp2.1\Unit1_ForVsForeach.runtimeconfig.dev.json
+E:\Coding\Complete\CSharp\Unit1_ForVsForeach\bin\Debug\netcoreapp2.1\Unit1_ForVsForeach.dll
+E:\Coding\Complete\CSharp\Unit1_ForVsForeach\bin\Debug\netcoreapp2.1\Unit1_ForVsForeach.pdb
+E:\Coding\Complete\CSharp\Unit1_ForVsForeach\obj\Debug\netcoreapp2.1\Unit1_ForVsForeach.dll
+E:\Coding\Complete\CSharp\Unit1_ForVsForeach\obj\Debug\netcoreapp2.1\Unit1_ForVsForeach.pdb

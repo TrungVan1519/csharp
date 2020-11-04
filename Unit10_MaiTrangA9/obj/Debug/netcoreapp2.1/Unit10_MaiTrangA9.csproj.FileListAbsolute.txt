@@ -1,0 +1,10 @@
+E:\Coding\Complete\CSharp\Unit10_MaiTrangA9\obj\Debug\netcoreapp2.1\Unit10_MaiTrangA9.csproj.CoreCompileInputs.cache
+E:\Coding\Complete\CSharp\Unit10_MaiTrangA9\obj\Debug\netcoreapp2.1\Unit10_MaiTrangA9.AssemblyInfoInputs.cache
+E:\Coding\Complete\CSharp\Unit10_MaiTrangA9\obj\Debug\netcoreapp2.1\Unit10_MaiTrangA9.AssemblyInfo.cs
+E:\Coding\Complete\CSharp\Unit10_MaiTrangA9\bin\Debug\netcoreapp2.1\Unit10_MaiTrangA9.deps.json
+E:\Coding\Complete\CSharp\Unit10_MaiTrangA9\bin\Debug\netcoreapp2.1\Unit10_MaiTrangA9.runtimeconfig.json
+E:\Coding\Complete\CSharp\Unit10_MaiTrangA9\bin\Debug\netcoreapp2.1\Unit10_MaiTrangA9.runtimeconfig.dev.json
+E:\Coding\Complete\CSharp\Unit10_MaiTrangA9\bin\Debug\netcoreapp2.1\Unit10_MaiTrangA9.dll
+E:\Coding\Complete\CSharp\Unit10_MaiTrangA9\bin\Debug\netcoreapp2.1\Unit10_MaiTrangA9.pdb
+E:\Coding\Complete\CSharp\Unit10_MaiTrangA9\obj\Debug\netcoreapp2.1\Unit10_MaiTrangA9.dll
+E:\Coding\Complete\CSharp\Unit10_MaiTrangA9\obj\Debug\netcoreapp2.1\Unit10_MaiTrangA9.pdb

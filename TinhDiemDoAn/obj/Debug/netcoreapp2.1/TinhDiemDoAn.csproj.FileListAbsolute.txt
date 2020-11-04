@@ -1,0 +1,10 @@
+E:\Coding\Complete\CSharp\TinhDiemDoAn\bin\Debug\netcoreapp2.1\TinhDiemDoAn.deps.json
+E:\Coding\Complete\CSharp\TinhDiemDoAn\bin\Debug\netcoreapp2.1\TinhDiemDoAn.runtimeconfig.json
+E:\Coding\Complete\CSharp\TinhDiemDoAn\bin\Debug\netcoreapp2.1\TinhDiemDoAn.runtimeconfig.dev.json
+E:\Coding\Complete\CSharp\TinhDiemDoAn\bin\Debug\netcoreapp2.1\TinhDiemDoAn.dll
+E:\Coding\Complete\CSharp\TinhDiemDoAn\bin\Debug\netcoreapp2.1\TinhDiemDoAn.pdb
+E:\Coding\Complete\CSharp\TinhDiemDoAn\obj\Debug\netcoreapp2.1\TinhDiemDoAn.csproj.CoreCompileInputs.cache
+E:\Coding\Complete\CSharp\TinhDiemDoAn\obj\Debug\netcoreapp2.1\TinhDiemDoAn.AssemblyInfoInputs.cache
+E:\Coding\Complete\CSharp\TinhDiemDoAn\obj\Debug\netcoreapp2.1\TinhDiemDoAn.AssemblyInfo.cs
+E:\Coding\Complete\CSharp\TinhDiemDoAn\obj\Debug\netcoreapp2.1\TinhDiemDoAn.dll
+E:\Coding\Complete\CSharp\TinhDiemDoAn\obj\Debug\netcoreapp2.1\TinhDiemDoAn.pdb

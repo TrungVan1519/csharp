@@ -1,0 +1,10 @@
+E:\Coding\Complete\CSharp\Unit5_InheritanceVersion2\bin\Debug\netcoreapp2.1\Unit5_InheritanceVersion2.deps.json
+E:\Coding\Complete\CSharp\Unit5_InheritanceVersion2\bin\Debug\netcoreapp2.1\Unit5_InheritanceVersion2.runtimeconfig.json
+E:\Coding\Complete\CSharp\Unit5_InheritanceVersion2\bin\Debug\netcoreapp2.1\Unit5_InheritanceVersion2.runtimeconfig.dev.json
+E:\Coding\Complete\CSharp\Unit5_InheritanceVersion2\bin\Debug\netcoreapp2.1\Unit5_InheritanceVersion2.dll
+E:\Coding\Complete\CSharp\Unit5_InheritanceVersion2\bin\Debug\netcoreapp2.1\Unit5_InheritanceVersion2.pdb
+E:\Coding\Complete\CSharp\Unit5_InheritanceVersion2\obj\Debug\netcoreapp2.1\Unit5_InheritanceVersion2.csproj.CoreCompileInputs.cache
+E:\Coding\Complete\CSharp\Unit5_InheritanceVersion2\obj\Debug\netcoreapp2.1\Unit5_InheritanceVersion2.AssemblyInfoInputs.cache
+E:\Coding\Complete\CSharp\Unit5_InheritanceVersion2\obj\Debug\netcoreapp2.1\Unit5_InheritanceVersion2.AssemblyInfo.cs
+E:\Coding\Complete\CSharp\Unit5_InheritanceVersion2\obj\Debug\netcoreapp2.1\Unit5_InheritanceVersion2.dll
+E:\Coding\Complete\CSharp\Unit5_InheritanceVersion2\obj\Debug\netcoreapp2.1\Unit5_InheritanceVersion2.pdb

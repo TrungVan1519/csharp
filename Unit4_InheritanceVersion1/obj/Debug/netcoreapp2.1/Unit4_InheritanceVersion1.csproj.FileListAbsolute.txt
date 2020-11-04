@@ -1,0 +1,10 @@
+E:\Coding\Complete\CSharp\Unit4_InheritanceVersion1\bin\Debug\netcoreapp2.1\Unit4_InheritanceVersion1.deps.json
+E:\Coding\Complete\CSharp\Unit4_InheritanceVersion1\bin\Debug\netcoreapp2.1\Unit4_InheritanceVersion1.runtimeconfig.json
+E:\Coding\Complete\CSharp\Unit4_InheritanceVersion1\bin\Debug\netcoreapp2.1\Unit4_InheritanceVersion1.runtimeconfig.dev.json
+E:\Coding\Complete\CSharp\Unit4_InheritanceVersion1\bin\Debug\netcoreapp2.1\Unit4_InheritanceVersion1.dll
+E:\Coding\Complete\CSharp\Unit4_InheritanceVersion1\bin\Debug\netcoreapp2.1\Unit4_InheritanceVersion1.pdb
+E:\Coding\Complete\CSharp\Unit4_InheritanceVersion1\obj\Debug\netcoreapp2.1\Unit4_InheritanceVersion1.csproj.CoreCompileInputs.cache
+E:\Coding\Complete\CSharp\Unit4_InheritanceVersion1\obj\Debug\netcoreapp2.1\Unit4_InheritanceVersion1.AssemblyInfoInputs.cache
+E:\Coding\Complete\CSharp\Unit4_InheritanceVersion1\obj\Debug\netcoreapp2.1\Unit4_InheritanceVersion1.AssemblyInfo.cs
+E:\Coding\Complete\CSharp\Unit4_InheritanceVersion1\obj\Debug\netcoreapp2.1\Unit4_InheritanceVersion1.dll
+E:\Coding\Complete\CSharp\Unit4_InheritanceVersion1\obj\Debug\netcoreapp2.1\Unit4_InheritanceVersion1.pdb

@@ -1,0 +1,10 @@
+E:\Coding\Complete\CSharp\Unit6_Struct\bin\Debug\netcoreapp2.1\Unit6_Struct.deps.json
+E:\Coding\Complete\CSharp\Unit6_Struct\bin\Debug\netcoreapp2.1\Unit6_Struct.runtimeconfig.json
+E:\Coding\Complete\CSharp\Unit6_Struct\bin\Debug\netcoreapp2.1\Unit6_Struct.runtimeconfig.dev.json
+E:\Coding\Complete\CSharp\Unit6_Struct\bin\Debug\netcoreapp2.1\Unit6_Struct.dll
+E:\Coding\Complete\CSharp\Unit6_Struct\bin\Debug\netcoreapp2.1\Unit6_Struct.pdb
+E:\Coding\Complete\CSharp\Unit6_Struct\obj\Debug\netcoreapp2.1\Unit6_Struct.csproj.CoreCompileInputs.cache
+E:\Coding\Complete\CSharp\Unit6_Struct\obj\Debug\netcoreapp2.1\Unit6_Struct.AssemblyInfoInputs.cache
+E:\Coding\Complete\CSharp\Unit6_Struct\obj\Debug\netcoreapp2.1\Unit6_Struct.AssemblyInfo.cs
+E:\Coding\Complete\CSharp\Unit6_Struct\obj\Debug\netcoreapp2.1\Unit6_Struct.dll
+E:\Coding\Complete\CSharp\Unit6_Struct\obj\Debug\netcoreapp2.1\Unit6_Struct.pdb

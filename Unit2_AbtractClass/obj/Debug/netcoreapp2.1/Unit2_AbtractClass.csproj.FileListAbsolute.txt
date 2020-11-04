@@ -1,0 +1,10 @@
+E:\Coding\Complete\CSharp\Unit2_AbtractClass\bin\Debug\netcoreapp2.1\Unit2_AbtractClass.deps.json
+E:\Coding\Complete\CSharp\Unit2_AbtractClass\bin\Debug\netcoreapp2.1\Unit2_AbtractClass.runtimeconfig.json
+E:\Coding\Complete\CSharp\Unit2_AbtractClass\bin\Debug\netcoreapp2.1\Unit2_AbtractClass.runtimeconfig.dev.json
+E:\Coding\Complete\CSharp\Unit2_AbtractClass\bin\Debug\netcoreapp2.1\Unit2_AbtractClass.dll
+E:\Coding\Complete\CSharp\Unit2_AbtractClass\bin\Debug\netcoreapp2.1\Unit2_AbtractClass.pdb
+E:\Coding\Complete\CSharp\Unit2_AbtractClass\obj\Debug\netcoreapp2.1\Unit2_AbtractClass.csproj.CoreCompileInputs.cache
+E:\Coding\Complete\CSharp\Unit2_AbtractClass\obj\Debug\netcoreapp2.1\Unit2_AbtractClass.AssemblyInfoInputs.cache
+E:\Coding\Complete\CSharp\Unit2_AbtractClass\obj\Debug\netcoreapp2.1\Unit2_AbtractClass.AssemblyInfo.cs
+E:\Coding\Complete\CSharp\Unit2_AbtractClass\obj\Debug\netcoreapp2.1\Unit2_AbtractClass.dll
+E:\Coding\Complete\CSharp\Unit2_AbtractClass\obj\Debug\netcoreapp2.1\Unit2_AbtractClass.pdb

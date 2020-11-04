@@ -1,0 +1,10 @@
+E:\Coding\Complete\CSharp\Unit8_Array.ConvertAllStringToInt\bin\Debug\netcoreapp2.1\Unit8_Array.ConvertAllStringToInt.deps.json
+E:\Coding\Complete\CSharp\Unit8_Array.ConvertAllStringToInt\bin\Debug\netcoreapp2.1\Unit8_Array.ConvertAllStringToInt.runtimeconfig.json
+E:\Coding\Complete\CSharp\Unit8_Array.ConvertAllStringToInt\bin\Debug\netcoreapp2.1\Unit8_Array.ConvertAllStringToInt.runtimeconfig.dev.json
+E:\Coding\Complete\CSharp\Unit8_Array.ConvertAllStringToInt\bin\Debug\netcoreapp2.1\Unit8_Array.ConvertAllStringToInt.dll
+E:\Coding\Complete\CSharp\Unit8_Array.ConvertAllStringToInt\bin\Debug\netcoreapp2.1\Unit8_Array.ConvertAllStringToInt.pdb
+E:\Coding\Complete\CSharp\Unit8_Array.ConvertAllStringToInt\obj\Debug\netcoreapp2.1\Unit8_Array.ConvertAllStringToInt.csproj.CoreCompileInputs.cache
+E:\Coding\Complete\CSharp\Unit8_Array.ConvertAllStringToInt\obj\Debug\netcoreapp2.1\Unit8_Array.ConvertAllStringToInt.AssemblyInfoInputs.cache
+E:\Coding\Complete\CSharp\Unit8_Array.ConvertAllStringToInt\obj\Debug\netcoreapp2.1\Unit8_Array.ConvertAllStringToInt.AssemblyInfo.cs
+E:\Coding\Complete\CSharp\Unit8_Array.ConvertAllStringToInt\obj\Debug\netcoreapp2.1\Unit8_Array.ConvertAllStringToInt.dll
+E:\Coding\Complete\CSharp\Unit8_Array.ConvertAllStringToInt\obj\Debug\netcoreapp2.1\Unit8_Array.ConvertAllStringToInt.pdb

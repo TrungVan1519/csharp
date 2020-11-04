@@ -1,0 +1,11 @@
+E:\Coding\Complete\CSharp\Unit11_Regex\bin\Debug\netcoreapp2.1\Unit11_Regex.deps.json
+E:\Coding\Complete\CSharp\Unit11_Regex\bin\Debug\netcoreapp2.1\Unit11_Regex.runtimeconfig.json
+E:\Coding\Complete\CSharp\Unit11_Regex\bin\Debug\netcoreapp2.1\Unit11_Regex.runtimeconfig.dev.json
+E:\Coding\Complete\CSharp\Unit11_Regex\bin\Debug\netcoreapp2.1\Unit11_Regex.dll
+E:\Coding\Complete\CSharp\Unit11_Regex\bin\Debug\netcoreapp2.1\Unit11_Regex.pdb
+E:\Coding\Complete\CSharp\Unit11_Regex\obj\Debug\netcoreapp2.1\Unit11_Regex.csproj.CoreCompileInputs.cache
+E:\Coding\Complete\CSharp\Unit11_Regex\obj\Debug\netcoreapp2.1\Unit11_Regex.AssemblyInfoInputs.cache
+E:\Coding\Complete\CSharp\Unit11_Regex\obj\Debug\netcoreapp2.1\Unit11_Regex.AssemblyInfo.cs
+E:\Coding\Complete\CSharp\Unit11_Regex\obj\Debug\netcoreapp2.1\Unit11_Regex.dll
+E:\Coding\Complete\CSharp\Unit11_Regex\obj\Debug\netcoreapp2.1\Unit11_Regex.pdb
+E:\Coding\Complete\CSharp\Unit11_Regex\obj\Debug\netcoreapp2.1\Unit11_Regex.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+E:\Coding\Complete\CSharp\Unit7_Overriding\bin\Debug\netcoreapp2.1\Unit7_Overriding.deps.json
+E:\Coding\Complete\CSharp\Unit7_Overriding\bin\Debug\netcoreapp2.1\Unit7_Overriding.runtimeconfig.json
+E:\Coding\Complete\CSharp\Unit7_Overriding\bin\Debug\netcoreapp2.1\Unit7_Overriding.runtimeconfig.dev.json
+E:\Coding\Complete\CSharp\Unit7_Overriding\bin\Debug\netcoreapp2.1\Unit7_Overriding.dll
+E:\Coding\Complete\CSharp\Unit7_Overriding\bin\Debug\netcoreapp2.1\Unit7_Overriding.pdb
+E:\Coding\Complete\CSharp\Unit7_Overriding\obj\Debug\netcoreapp2.1\Unit7_Overriding.csproj.CoreCompileInputs.cache
+E:\Coding\Complete\CSharp\Unit7_Overriding\obj\Debug\netcoreapp2.1\Unit7_Overriding.AssemblyInfoInputs.cache
+E:\Coding\Complete\CSharp\Unit7_Overriding\obj\Debug\netcoreapp2.1\Unit7_Overriding.AssemblyInfo.cs
+E:\Coding\Complete\CSharp\Unit7_Overriding\obj\Debug\netcoreapp2.1\Unit7_Overriding.dll
+E:\Coding\Complete\CSharp\Unit7_Overriding\obj\Debug\netcoreapp2.1\Unit7_Overriding.pdb

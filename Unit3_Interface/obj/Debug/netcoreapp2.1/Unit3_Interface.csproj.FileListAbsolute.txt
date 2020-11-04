@@ -1,0 +1,10 @@
+E:\Coding\Complete\CSharp\Unit3_Interface\bin\Debug\netcoreapp2.1\Unit3_Interface.deps.json
+E:\Coding\Complete\CSharp\Unit3_Interface\bin\Debug\netcoreapp2.1\Unit3_Interface.runtimeconfig.json
+E:\Coding\Complete\CSharp\Unit3_Interface\bin\Debug\netcoreapp2.1\Unit3_Interface.runtimeconfig.dev.json
+E:\Coding\Complete\CSharp\Unit3_Interface\bin\Debug\netcoreapp2.1\Unit3_Interface.dll
+E:\Coding\Complete\CSharp\Unit3_Interface\bin\Debug\netcoreapp2.1\Unit3_Interface.pdb
+E:\Coding\Complete\CSharp\Unit3_Interface\obj\Debug\netcoreapp2.1\Unit3_Interface.csproj.CoreCompileInputs.cache
+E:\Coding\Complete\CSharp\Unit3_Interface\obj\Debug\netcoreapp2.1\Unit3_Interface.AssemblyInfoInputs.cache
+E:\Coding\Complete\CSharp\Unit3_Interface\obj\Debug\netcoreapp2.1\Unit3_Interface.AssemblyInfo.cs
+E:\Coding\Complete\CSharp\Unit3_Interface\obj\Debug\netcoreapp2.1\Unit3_Interface.dll
+E:\Coding\Complete\CSharp\Unit3_Interface\obj\Debug\netcoreapp2.1\Unit3_Interface.pdb
